@@ -1,0 +1,58 @@
+{
+  "events": [
+    {
+      "artist": "John And The Locals",
+      "type": "Concert",
+      "img": "./Images/john.png",
+      "status": "open",
+      "city": ["Kathmandu", "Pokhara", "Butwal"],
+
+      "frontSeatPrice": " 850",
+      "midSeatPrice": " 600",
+      "backSeatPrice": " 300"
+    },
+    {
+      "artist": "Sajjan Raj Vaidya",
+      "type": "Concert",
+      "img": "./Images/sajjan.png",
+      "status": "open",
+      "city": ["Kathmandu", "Pokhara", "Butwal", "Chitwan", "Itahari"],
+
+      "frontSeatPrice": " 750",
+      "midSeatPrice": " 550",
+      "backSeatPrice": " 400"
+    },
+    {
+      "artist": "VTEN",
+      "type": "Concert",
+      "status": "pending",
+      "img": "./Images/vten.png",
+      "city": ["Kathmandu", "Pokhara", "Butwal", "Chitwan"],
+
+      "frontSeatPrice": " 950",
+      "midSeatPrice": " 700",
+      "backSeatPrice": " 500"
+    },
+    {
+      "artist": "Nepathya",
+      "type": "Concert",
+      "status": "pending",
+      "img": "./Images/nepathya.png",
+      "city": ["Kathmandu", "Pokhara"],
+
+      "frontSeatPrice": " 850",
+      "midSeatPrice": " 600",
+      "backSeatPrice": " 300"
+    },
+    {
+      "artist": "Aadarsh Mishra",
+      "type": "ComedyShow",
+      "status": "open",
+      "img": "./Images/aadarsh.png",
+      "city": ["Kathmandu", "Butwal"],
+      "frontSeatPrice": " 550",
+      "midSeatPrice": " 350",
+      "backSeatPrice": " 200"
+    }
+  ]
+}
